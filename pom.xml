@@ -90,7 +90,7 @@
         <stax-utils.version>20070216</stax-utils.version>
         <spock.version>2.1-groovy-3.0</spock.version>
         <shedlock.version>4.37.0</shedlock.version>
-        <elasticsearch.version>7.15.0</elasticsearch.version>
+        <elasticsearch.version>7.17.13</elasticsearch.version>
 
         <validation.version>2.0.1.Final</validation.version>
         <velocity.version>2.3</velocity.version>
